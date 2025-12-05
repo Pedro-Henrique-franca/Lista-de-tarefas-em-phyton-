@@ -19,8 +19,7 @@ python main.py
 ---
 
 ## 📁 Estrutura do projeto
-main.py        # Arquivo principal com o menu e funções README.md 
-# Documentação do projeto
+main.py        # Arquivo principal com o menu e funções README.md    # Documentação do projeto
 ---
 
 ## 🎯 Objetivo do projeto
